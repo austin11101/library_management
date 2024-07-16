@@ -1,0 +1,49 @@
+
+{
+padding:;
+}
+
+
+input ,select{
+
+    vertical-align: middle;
+}
+
+/************************main code INDEX -------------------*/
+
+.wrapper
+{
+    height: 650px;
+    width:1350px;
+
+    /*background-color: red;*/
+
+}
+
+header{
+
+    height: 130px;
+    width: 1360px;
+    background-color:black;
+
+}
+
+section{
+
+    height:450px ;
+    width: 1360px;
+    background-color: grey;
+
+}
+
+footer{
+
+    height:80px ;
+    width: 1350px;
+    background-color: black;
+}
+
+li a{
+
+    color: white;
+}
