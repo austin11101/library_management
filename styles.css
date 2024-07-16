@@ -1,7 +1,4 @@
 
-{
-padding:;
-}
 
 
 input ,select{
@@ -22,7 +19,7 @@ input ,select{
 
 header{
 
-    height: 130px;
+    height: 190px;
     width: 1360px;
     background-color:black;
 
@@ -30,7 +27,7 @@ header{
 
 section{
 
-    height:450px ;
+    height:400px ;
     width: 1360px;
     background-color: grey;
 
@@ -39,11 +36,62 @@ section{
 footer{
 
     height:80px ;
-    width: 1350px;
+    width: 1360px;
     background-color: black;
+}
+
+.logo{
+   
+    float: left;
+    padding-left: 20px;
+    padding-top: 5px;
+    
+}
+
+.logo img {
+
+    padding-left:60px;
 }
 
 li a{
 
     color: white;
+    text-decoration: none;
+
 }
+
+nav{
+
+    float: right;
+    word-spacing: 20px;
+    padding: 20px;
+}
+
+nav li 
+{
+
+    display: inline-block;
+    line-height: 30px;
+}
+
+section{
+
+    margin-top:opx ;
+    background-image:url("images/library.jpg") ;
+    padding-top:1%;
+
+}
+    
+
+
+
+.box{
+
+    background-color: brown;
+    height:300px;
+    width: 400px;
+    margin: 5px auto;
+    opacity: .6;
+
+}
+
