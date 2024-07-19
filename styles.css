@@ -25,7 +25,7 @@ header{
 
 }
 
-section{
+section.{
 
     height:400px ;
     width: 1360px;
@@ -74,12 +74,12 @@ nav li
     line-height: 30px;
 }
 
-section{
+.section_image{
 
     margin-top:opx ;
     background-image:url("images/library.jpg") ;
     padding-top:1%;
-
+    height:400px ;
 }
     
 
@@ -94,6 +94,19 @@ section{
     opacity: .6;
     color: white;
    
+
+}
+
+
+/************************Student-Login-Styles -------------------*/
+
+
+.student_img{
+
+    background-image:url("images/student.jpg") ;
+    height:400px ;
+    width: 1360px;
+    background-color: grey;
 
 }
 
