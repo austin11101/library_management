@@ -108,11 +108,36 @@ nav li
     width: 1360px;
     background-color: grey;
 
+
+
+    
 }
 
 
-/************************Student-Login-Styles -------------------*/
+input{
+
+    height: 25px;
+    width: 180px;
+}
+
+.forgot_password{
+
+    color: white;
+    text-align:center;
+}
+
+
+/************************Student-Registration-Styles -------------------*/
+
+
+.registration_img{
+
+    background-image:url("images/reg2.jpg") ;
+    height:400px ;
+    width: 1360px;
+    background-color: grey;
 
 
 
-
+    
+}
